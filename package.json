@@ -1,0 +1,8 @@
+{
+  "name": "darc-fixture",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DARC control fixture repository. Not a real service.",
+  "scripts": { "build": "echo no-op" },
+  "dependencies": { "ms": "2.1.3", "semver": "7.6.3" }
+}
